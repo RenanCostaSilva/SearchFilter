@@ -1,5 +1,5 @@
 # SearchFilter
-[![NPM](https://github.com/RenanCostaSilva/AutoComplete/blob/master/LICENSE)
+[![NPM](https://github.com/RenanCostaSilva/SearchFilter/blob/master/LICENSE)
 
 
 # Sobre o aplicativo
